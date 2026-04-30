@@ -1,1 +1,1 @@
-# SistemaGestionEscolar
+Documentación del proyecto
